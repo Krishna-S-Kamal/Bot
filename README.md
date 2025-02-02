@@ -1,4 +1,4 @@
-# [bot] 🎯
+# bot 🎯
 
 
 ## Basic Details
