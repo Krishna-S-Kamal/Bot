@@ -1,39 +1,31 @@
-# [Project Name] 🎯
+# [bot] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Everest
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Krishna S Kamal - College Of Engineering Munnar
+- Member 2: Aleena Ajith - College Of Engineering Munnar
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+mention your project hosted project link here
 
 ### Project Description
-[2-3 lines about what your project does]
+This AI chatbot, presented by Team Everest, is a user-friendly conversational assistant that provides quick and intelligent responses. It leverages the Google Gemini API to generate human-like replies, making it useful for customer support, educational assistance, or general inquiries. With a simple and responsive design, it ensures smooth interaction while saving chat history for continuity. The chatbot is an efficient solution for automating conversations, enhancing productivity, and improving user engagement.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[The project addresses the challenge of providing timely and efficient customer support by automating responses and enabling 24/7 interaction. It aims to reduce the load on human agents, minimize response times, and offer scalable solutions for businesses to enhance customer experience and engagement.]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+This project solves the problem of delayed customer support and repetitive tasks by providing an AI-powered chatbot that offers instant, accurate responses. It automates customer interaction, improving efficiency and reducing the need for human agents in handling routine queries.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML,CSS,Java Script
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
@@ -47,30 +39,21 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screensh![Screenshot_2-2-2025_10189_](https://github.com/user-attachments/assets/7cf2d992-1151-4a4f-95db-92ce1d69d2ca)
+ot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screensh![Screenshot_2-2-2025_101751_](https://github.com/user-attachments/assets/37f66c02-7bbb-4333-a755-b8e923bafb8a)
+ot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+*Add capt![Screenshot_2-2-2025_101742_](https://github.com/user-attachments/assets/d236d6ce-f348-475e-9946-ece5dd05af08)
+ion explaining what this shows*
 
 # Build Photos
 ![Team](Add photo of your team here)
+![Alee](https://github.com/user-attachments/assets/cdd53e75-eb01-40af-99ac-ba418980c6dc)
 
 
 ![Components](Add photo of your components here)
@@ -91,9 +74,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Krishna S Kamal: Coding and idea
+- Aleena Ajith: Research and documentation
 
 ---
 Made with ❤️ at TinkerHub
