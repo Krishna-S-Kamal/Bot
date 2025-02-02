@@ -11,6 +11,8 @@
 
 ### Hosted Project Link
 mention your project hosted project link here
+Git link: https://github.com/Krishna-S-Kamal/Bot
+vercel:https://bot-brown-psi.vercel.app/
 
 ### Project Description
 This AI chatbot, presented by Team Everest, is a user-friendly conversational assistant that provides quick and intelligent responses. It leverages the Google Gemini API to generate human-like replies, making it useful for customer support, educational assistance, or general inquiries. With a simple and responsive design, it ensures smooth interaction while saving chat history for continuity. The chatbot is an efficient solution for automating conversations, enhancing productivity, and improving user engagement.
@@ -39,16 +41,18 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screensh![Screenshot_2-2-2025_10189_](https://github.com/user-attachments/assets/7cf2d992-1151-4a4f-95db-92ce1d69d2ca)
-ot1](Add screenshot 1 here with proper name)
+![Screensh![Screenshot_2-2-2025_10189_](Add screenshot 1 here with proper n![Screenshot_2-2-2025_104557_](https://github.com/user-attachments/assets/1977f2e6-2710-43fe-a7ea-80d35e255c59)
+ame)
 *Add caption explaining what this shows*
 
-![Screensh![Screenshot_2-2-2025_101751_](https://github.com/user-attachments/assets/37f66c02-7bbb-4333-a755-b8e923bafb8a)
-ot2](Add screenshot 2 here with proper name)
+![Screensh![Screenshot_2-2-2025_101751_]
+ot2](Add screenshot 2 here wi![Screenshot_2-2-2025_104538_](https://github.com/user-attachments/assets/4a0d0fd8-c573-40da-babf-b2d2934f9a21)
+th proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add capt![Screenshot_2-2-2025_101742_](https://github.com/user-attachments/assets/d236d6ce-f348-475e-9946-ece5dd05af08)
+*Add capt![Screenshot_2-2-2025_10174![Screenshot_2-2-2025_104512_](https://github.com/user-attachments/assets/88d3a8ab-ff00-4980-acfe-64eaef601cec)
+2_]
 ion explaining what this shows*
 
 # Build Photos
